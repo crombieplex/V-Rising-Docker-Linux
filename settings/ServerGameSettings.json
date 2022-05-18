@@ -1,14 +1,14 @@
-﻿{
+TimeRestricted﻿{
   "GameModeType": "PvP",
-  "CastleDamageMode": "Always",
+  "CastleDamageMode": "TimeRestricted",
   "SiegeWeaponHealth": "Normal",
   "PlayerDamageMode": "Always",
-  "CastleHeartDamageMode": "CanBeDestroyedByPlayers",
+  "CastleHeartDamageMode": "CanBeSeizedOrDestroyedByPlayers",
   "PvPProtectionMode": "Medium",
   "DeathContainerPermission": "Anyone",
   "RelicSpawnType": "Unique",
   "CanLootEnemyContainers": true,
-  "BloodBoundEquipment": true,
+  "BloodBoundEquipment": false,
   "TeleportBoundItems": true,
   "AllowGlobalChat": true,
   "AllWaypointsUnlocked": false,
